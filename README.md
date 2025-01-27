@@ -39,7 +39,7 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
 1. David Felipe Mendoza Carrillo, d.mendozacarrillo@uniandes.edu.co, 202421689.
-1. Juan Jose Hernandez Vera, jj.hernandezv1@uniandes.edu.co, 20242.
+1. Juan Jose Hernandez Vera, jj.hernandezv1@uniandes.edu.co, 202423465.
 1. Juan David Forero Huerfano,jd.foreroh1@uniandes.edu.co, 202411707.
 
 [Volver al inicio](#laboratorio-1)
